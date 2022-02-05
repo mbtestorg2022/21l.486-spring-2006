@@ -4,32 +4,314 @@ title: Assignments
 uid: 5834da21-979b-50f2-df1c-2f35f6d79ca5
 ---
 
-| SES # | TOPICS | ASSIGNMENTS |
-| --- | --- | --- |
-| 1 | Introduction and Overview | &nbsp; |
-| 2 | Shaw's _Pygmalion_ and the Drama of Language | &nbsp; |
-| 3 | _Pygmalion_ from Page to Screen | &nbsp; |
-| 4 | _Pygmalion_, _My Fair Lady_, and the Musical Drama | &nbsp; |
-| 5 | Pirandello's _Henry IV_ and Psychological Relativity | &nbsp; |
-| 6 | Brecht, _Mother Courage and Her Children_ | &nbsp; |
-| 7 | Brechtian Politics and Dramaturgy(cont.) | &nbsp; |
-| 8 | Beckett, _Happy Days_ | Essay #1 due |
-| 9 | Beckett, Pinter, and Domestic Absurdism | &nbsp; |
-| 10 | Williams, _A Streetcar Named Desire_ | &nbsp; |
-| 11 | _Streetcar_, Poetic Realism, and the Method | &nbsp; |
-| 12 | Hwang, _M. Butterfly_ | Essay #1 revision due |
-| 13 | Wilson, _The Piano Lesson_ | &nbsp; |
-| 14 | Williams, Hwang, Wilson: American Dreams | Essay #2 due |
-| 15 | Soyinka, _Kongi's Harvest_ | Read your outside play if you haven't already  {{< br >}}  {{< br >}}Begin planning your final essays |
-| 16 | Smith, _Twilight: Los Angeles, 2002_ | &nbsp; |
-| 17 | _Twilight_ Reflections, and Kushner, _Angels in America, Part 1_ | &nbsp; |
-| 18 | Kushner, _Angels in America, Parts 1 and 2_ | &nbsp; |
-| 19 | _Angels_ Reflections | Outside play reports begin |
-| 20 | Frayn, _Copenhagen, Streetcar_ | &nbsp; |
-| 21 | Stoppard, _Hapgood_ | &nbsp; |
-| 22 | Stoppard | Reports (cont.) |
-| 23 | Churchill, _A Number_ | &nbsp; |
-| 24 | Conclusions | Final essay due 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction and Overview
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Shaw's _Pygmalion_ and the Drama of Language
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+_Pygmalion_ from Page to Screen
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+_Pygmalion_, _My Fair Lady_, and the Musical Drama
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Pirandello's _Henry IV_ and Psychological Relativity
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Brecht, _Mother Courage and Her Children_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Brechtian Politics and Dramaturgy(cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Beckett, _Happy Days_
+{{< tdclose >}}
+{{< tdopen >}}
+Essay #1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Beckett, Pinter, and Domestic Absurdism
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Williams, _A Streetcar Named Desire_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+_Streetcar_, Poetic Realism, and the Method
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Hwang, _M. Butterfly_
+{{< tdclose >}}
+{{< tdopen >}}
+Essay #1 revision due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Wilson, _The Piano Lesson_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Williams, Hwang, Wilson: American Dreams
+{{< tdclose >}}
+{{< tdopen >}}
+Essay #2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Soyinka, _Kongi's Harvest_
+{{< tdclose >}}
+{{< tdopen >}}
+Read your outside play if you haven't already  
+  
+Begin planning your final essays
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Smith, _Twilight: Los Angeles, 2002_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+_Twilight_ Reflections, and Kushner, _Angels in America, Part 1_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Kushner, _Angels in America, Parts 1 and 2_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+_Angels_ Reflections
+{{< tdclose >}}
+{{< tdopen >}}
+Outside play reports begin
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Frayn, _Copenhagen, Streetcar_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Stoppard, _Hapgood_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Stoppard
+{{< tdclose >}}
+{{< tdopen >}}
+Reports (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Churchill, _A Number_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Conclusions
+{{< tdclose >}}
+{{< tdopen >}}
+Final essay due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Sample Essays
 -------------

@@ -17,32 +17,237 @@ Lectures: 2 sessions / week
 Schedule
 --------
 
-| SES # | TOPICS |
-| --- | --- |
-| 1 | Introduction and Overview |
-| 2 | Shaw's _Pygmalion_ and the Drama of Language |
-| 3 | _Pygmalion_ from Page to Screen |
-| 4 | _Pygmalion_, _My Fair Lady_, and the Musical Drama |
-| 5 | Pirandello's _Henry IV_ and Psychological Relativity |
-| 6 | Brecht, _Mother Courage and Her Children_ |
-| 7 | Brechtian Politics and Dramaturgy, continued |
-| 8 | Beckett, _Happy Days_ |
-| 9 | Beckett, Pinter, and Domestic Absurdism |
-| 10 | Williams, _A Streetcar Named Desire_ |
-| 11 | _Streetcar_, Poetic Realism, and the Method |
-| 12 | Hwang, _M. Butterfly_ |
-| 13 | Wilson, _The Piano Lesson_ |
-| 14 | Williams, Hwang, Wilson: American Dreams |
-| 15 | Soyinka, _Kongi's Harvest_ |
-| 16 | Smith, _Twilight: Los Angeles, 1992_ |
-| 17 | _Twilight_ Reflections, and Kushner, _Angels in America, Part 1_ |
-| 18 | Kushner, _Angels in America, Parts 1 and 2_ |
-| 19 | _Angels_ Reflections |
-| 20 | Frayn, _Copenhagen, Streetcar_ |
-| 21 | Stoppard, _Hapgood_ |
-| 22 | Stoppard |
-| 23 | Churchill, _A Number_ |
-| 24 | Conclusions 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction and Overview
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Shaw's _Pygmalion_ and the Drama of Language
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+_Pygmalion_ from Page to Screen
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+_Pygmalion_, _My Fair Lady_, and the Musical Drama
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Pirandello's _Henry IV_ and Psychological Relativity
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Brecht, _Mother Courage and Her Children_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Brechtian Politics and Dramaturgy, continued
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Beckett, _Happy Days_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Beckett, Pinter, and Domestic Absurdism
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Williams, _A Streetcar Named Desire_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+_Streetcar_, Poetic Realism, and the Method
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Hwang, _M. Butterfly_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Wilson, _The Piano Lesson_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Williams, Hwang, Wilson: American Dreams
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Soyinka, _Kongi's Harvest_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Smith, _Twilight: Los Angeles, 1992_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+_Twilight_ Reflections, and Kushner, _Angels in America, Part 1_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Kushner, _Angels in America, Parts 1 and 2_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+_Angels_ Reflections
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Frayn, _Copenhagen, Streetcar_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Stoppard, _Hapgood_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Stoppard
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Churchill, _A Number_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Conclusions
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 The Film Office usually can provide copies of the films we screen, and you will want to avail yourself of this resource should you decide to write on a particular screen version. If you will not be able to attend a scheduled evening screening, however, please let me know well in advance, so that we can use the office staff's time appropriately.
 
@@ -58,14 +263,75 @@ In addition, you will choose between two options: (A) write two more short (5-7 
 Approximate Valuation for Grading Purposes
 ------------------------------------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Essay 1 | 10% |
-| Essay 2 | 15% |
-| Essay 3 or 3/4 | 25% |
-| Outside Play Presentation | 10% |
-| Class Leadership | 10% |
-| Class Participation throughout the Semester (including attendance, viewings, quality of personal contributions and thoughtful exchange of ideas with others) | 30% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Essay 1
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Essay 2
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Essay 3 or 3/4
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Outside Play Presentation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Leadership
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Participation throughout the Semester (including attendance, viewings, quality of personal contributions and thoughtful exchange of ideas with others)
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 I reserve the right to alter this weighting somewhat in exceptional circumstances; often this works to your advantage.
 

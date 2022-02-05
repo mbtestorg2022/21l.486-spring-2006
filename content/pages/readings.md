@@ -6,32 +6,312 @@ uid: bb45cccd-324f-8555-aaa5-9c457e6889f6
 
 After a table summarizing the works covered in each lecture session, this page presents complete lists of [required texts](#Texts), [outside plays](#Plays), [films](#Films), and [additional readings](#Additional_Readings).
 
-| SES # | TOPICS | FILMS |
-| --- | --- | --- |
-| 1 | Introduction and Overview | &nbsp; |
-| 2 | Shaw's _Pygmalion_ and the Drama of Language | _Pygmalion_ |
-| 3 | _Pygmalion_ from Page to Screen | _My Fair Lady_ |
-| 4 | _Pygmalion_, _My Fair Lady_, and the Musical Drama | &nbsp; |
-| 5 | Pirandello's _Henry IV_ and Psychological Relativity | &nbsp; |
-| 6 | Brecht, _Mother Courage and Her Children_ | &nbsp; |
-| 7 | Brechtian Politics and Dramaturgy, continued | &nbsp; |
-| 8 | Beckett, _Happy Days_ | _Betrayal_ |
-| 9 | Beckett, Pinter, and Domestic Absurdism | &nbsp; |
-| 10 | Williams, _A Streetcar Named Desire_ | _A Streetcar Named Desire_ |
-| 11 | _Streetcar_, Poetic Realism, and the Method | &nbsp; |
-| 12 | Hwang, _M. Butterfly_ | _M. Butterfly_ |
-| 13 | Wilson, _The Piano Lesson_ | &nbsp; |
-| 14 | Williams, Hwang, Wilson: American Dreams | &nbsp; |
-| 15 | Soyinka, _Kongi's Harvest_ | &nbsp; |
-| 16 | Smith, _Twilight: Los Angeles, 1992_ | _Twilight: Los Angeles_ |
-| 17 | _Twilight_ Reflections, and Kushner, _Angels in America, Part 1_ | &nbsp; |
-| 18 | Kushner, _Angels in America, Parts 1 and 2_ | &nbsp; |
-| 19 | _Angels_ Reflections | &nbsp; |
-| 20 | Frayn, _Copenhagen, Streetcar_ | &nbsp; |
-| 21 | Stoppard, _Hapgood_ | &nbsp; |
-| 22 | Stoppard | &nbsp; |
-| 23 | Churchill, _A Number_ | &nbsp; |
-| 24 | Conclusions |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+FILMS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction and Overview
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Shaw's _Pygmalion_ and the Drama of Language
+{{< tdclose >}}
+{{< tdopen >}}
+_Pygmalion_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+_Pygmalion_ from Page to Screen
+{{< tdclose >}}
+{{< tdopen >}}
+_My Fair Lady_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+_Pygmalion_, _My Fair Lady_, and the Musical Drama
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Pirandello's _Henry IV_ and Psychological Relativity
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Brecht, _Mother Courage and Her Children_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Brechtian Politics and Dramaturgy, continued
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Beckett, _Happy Days_
+{{< tdclose >}}
+{{< tdopen >}}
+_Betrayal_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Beckett, Pinter, and Domestic Absurdism
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Williams, _A Streetcar Named Desire_
+{{< tdclose >}}
+{{< tdopen >}}
+_A Streetcar Named Desire_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+_Streetcar_, Poetic Realism, and the Method
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Hwang, _M. Butterfly_
+{{< tdclose >}}
+{{< tdopen >}}
+_M. Butterfly_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Wilson, _The Piano Lesson_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Williams, Hwang, Wilson: American Dreams
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Soyinka, _Kongi's Harvest_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Smith, _Twilight: Los Angeles, 1992_
+{{< tdclose >}}
+{{< tdopen >}}
+_Twilight: Los Angeles_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+_Twilight_ Reflections, and Kushner, _Angels in America, Part 1_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Kushner, _Angels in America, Parts 1 and 2_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+_Angels_ Reflections
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Frayn, _Copenhagen, Streetcar_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Stoppard, _Hapgood_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Stoppard
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Churchill, _A Number_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Conclusions
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "Texts" >}}{{< /anchor >}}Required Texts
 ---------------------------------------------------
